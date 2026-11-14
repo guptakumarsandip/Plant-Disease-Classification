@@ -1,0 +1,25 @@
+
+====================================================
+PLANT DISEASE DATASET - QUALITY CHECK SUMMARY
+====================================================
+
+Selected classes: 23
+
+Expected images: 29345
+Actual images checked: 29345
+
+Valid images: 29345
+Corrupted images: 0
+
+Image count mismatches: 0
+Invalid dimension errors: 0
+
+Total dataset size: 440.02 MB
+
+Processing time: 588.99 seconds
+
+====================================================
+RESULT
+====================================================
+
+ALL QUALITY CHECKS PASSED!

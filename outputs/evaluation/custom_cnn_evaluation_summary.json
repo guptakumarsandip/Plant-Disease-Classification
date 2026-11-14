@@ -1,0 +1,13 @@
+{
+    "model": "Custom CNN",
+    "number_of_classes": 23,
+    "test_accuracy": 0.7096774193548387,
+    "test_accuracy_percentage": 70.96774193548387,
+    "test_loss": 1.0683090686798096,
+    "macro_precision": 0.7250731071055059,
+    "macro_recall": 0.7437731300306116,
+    "macro_f1_score": 0.6967255620389937,
+    "weighted_precision": 0.7879062247656564,
+    "weighted_recall": 0.7096774193548387,
+    "weighted_f1_score": 0.7295895896456693
+}

@@ -1,0 +1,39 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+
+# TensorFlow and training temporary files
+*.log
+*.tmp
+
+# Raw dataset - do not upload 440 MB of images
+data/raw/
+
+# Generated split manifests contain local image paths
+outputs/splits/train.csv
+outputs/splits/validation.csv
+outputs/splits/test.csv
+
+# Keep model weights out of ordinary Git history
+models/*.keras
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dataset archive
+plant disease/
